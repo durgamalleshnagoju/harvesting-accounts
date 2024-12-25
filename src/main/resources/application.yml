@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/harvesting_accounts?createDatabaseIfNotExist=true
+    username: root
+    password: root
+  application:
+    name: harvesting-accounts
